@@ -10,5 +10,5 @@ namespace PHPMailer\FileCore;
 
 class FileCore
 {
-
+    //TODO starting class, load file of mimetype conf, create function for read file
 }
